@@ -11,7 +11,7 @@ def summon_captain_planet(planeteer_calls)
 end
 
 def long_planeteer_calls(planeteer_calls)
-  i = 0 
+  answer = false 
   while i < planeteer_calls.length do
     return true if planeteer_calls[i].length > 4
   end
