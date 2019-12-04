@@ -12,7 +12,7 @@ end
 
 def long_planeteer_calls(planeteer_calls)
   answer = false 
-  long_planeteer_calls.
+  planeteer_calls.each 
 end
 
 def find_the_cheese# code an argument here
